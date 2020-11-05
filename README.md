@@ -3,7 +3,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=bearhunter49&count_private=true&theme=vue&show_icons=true" />
 </a>
 <a href="https://github.com/bearhunter49">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bearhunter49&theme=vue&layout=compact&hide=C,jupyter notebook" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bearhunter49&theme=vue&layout=compact&hide=C,jupyter notebook,C%2B%2B" />
 </a>
 
 <br>
